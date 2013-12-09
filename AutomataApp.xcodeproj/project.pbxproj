@@ -1,0 +1,625 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		AA4C456817F93401008E842D /* DFState.m in Sources */ = {isa = PBXBuildFile; fileRef = AA4C456717F93401008E842D /* DFState.m */; };
+		AA4C456917F93401008E842D /* DFState.m in Sources */ = {isa = PBXBuildFile; fileRef = AA4C456717F93401008E842D /* DFState.m */; };
+		AA709F29185403AD0015EB3E /* DrawingView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA709F26185403AD0015EB3E /* DrawingView.m */; };
+		AA709F2A185403AD0015EB3E /* CircleGesture.m in Sources */ = {isa = PBXBuildFile; fileRef = AA709F28185403AD0015EB3E /* CircleGesture.m */; };
+		AA709F2D18540DC80015EB3E /* AATestStringsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA709F2C18540DC80015EB3E /* AATestStringsViewController.m */; };
+		AA709F30185434F80015EB3E /* ios_lib.m in Sources */ = {isa = PBXBuildFile; fileRef = AA709F2F185434F80015EB3E /* ios_lib.m */; };
+		AA7CD1ED1800BBAE0005CFDE /* AAHomework.m in Sources */ = {isa = PBXBuildFile; fileRef = AA7CD1EC1800BBAE0005CFDE /* AAHomework.m */; };
+		AA87EB7C17FFFC290042D2AA /* AACoreFunctions.m in Sources */ = {isa = PBXBuildFile; fileRef = AA87EB7B17FFFC290042D2AA /* AACoreFunctions.m */; };
+		AAB307ED17F7B437001BFF2B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307EC17F7B437001BFF2B /* Foundation.framework */; };
+		AAB307EF17F7B437001BFF2B /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307EE17F7B437001BFF2B /* CoreGraphics.framework */; };
+		AAB307F117F7B437001BFF2B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307F017F7B437001BFF2B /* UIKit.framework */; };
+		AAB307F317F7B437001BFF2B /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307F217F7B437001BFF2B /* CoreData.framework */; };
+		AAB307F917F7B437001BFF2B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AAB307F717F7B437001BFF2B /* InfoPlist.strings */; };
+		AAB307FB17F7B437001BFF2B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB307FA17F7B437001BFF2B /* main.m */; };
+		AAB307FF17F7B437001BFF2B /* AAAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB307FE17F7B437001BFF2B /* AAAppDelegate.m */; };
+		AAB3080217F7B438001BFF2B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAB3080017F7B438001BFF2B /* Main.storyboard */; };
+		AAB3080517F7B438001BFF2B /* AutomataApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AAB3080317F7B438001BFF2B /* AutomataApp.xcdatamodeld */; };
+		AAB3080817F7B438001BFF2B /* AAMasterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3080717F7B438001BFF2B /* AAMasterViewController.m */; };
+		AAB3080B17F7B438001BFF2B /* AADetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3080A17F7B438001BFF2B /* AADetailViewController.m */; };
+		AAB3080D17F7B438001BFF2B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAB3080C17F7B438001BFF2B /* Images.xcassets */; };
+		AAB3081417F7B438001BFF2B /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB3081317F7B438001BFF2B /* XCTest.framework */; };
+		AAB3081517F7B438001BFF2B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307EC17F7B437001BFF2B /* Foundation.framework */; };
+		AAB3081617F7B438001BFF2B /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307F017F7B437001BFF2B /* UIKit.framework */; };
+		AAB3081717F7B438001BFF2B /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AAB307F217F7B437001BFF2B /* CoreData.framework */; };
+		AAB3081F17F7B438001BFF2B /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = AAB3081D17F7B438001BFF2B /* InfoPlist.strings */; };
+		AAB3082117F7B438001BFF2B /* AutomataAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3082017F7B438001BFF2B /* AutomataAppTests.m */; };
+		AAB3083917F7B528001BFF2B /* DFAutomaton.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3082C17F7B528001BFF2B /* DFAutomaton.m */; };
+		AAB3083A17F7B528001BFF2B /* DFAutomaton.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3082C17F7B528001BFF2B /* DFAutomaton.m */; };
+		AAB3083B17F7B528001BFF2B /* DFAutomaton+Homework.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3082E17F7B528001BFF2B /* DFAutomaton+Homework.m */; };
+		AAB3083C17F7B528001BFF2B /* DFAutomaton+Homework.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3082E17F7B528001BFF2B /* DFAutomaton+Homework.m */; };
+		AAB3083D17F7B528001BFF2B /* DFAutomaton+Samples.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083017F7B528001BFF2B /* DFAutomaton+Samples.m */; };
+		AAB3083E17F7B528001BFF2B /* DFAutomaton+Samples.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083017F7B528001BFF2B /* DFAutomaton+Samples.m */; };
+		AAB3083F17F7B528001BFF2B /* DFAutomatonPath.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083217F7B528001BFF2B /* DFAutomatonPath.m */; };
+		AAB3084017F7B528001BFF2B /* DFAutomatonPath.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083217F7B528001BFF2B /* DFAutomatonPath.m */; };
+		AAB3084117F7B528001BFF2B /* DFConsts.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083417F7B528001BFF2B /* DFConsts.m */; };
+		AAB3084217F7B528001BFF2B /* DFConsts.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083417F7B528001BFF2B /* DFConsts.m */; };
+		AAB3084317F7B528001BFF2B /* DFTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083617F7B528001BFF2B /* DFTransition.m */; };
+		AAB3084417F7B528001BFF2B /* DFTransition.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083617F7B528001BFF2B /* DFTransition.m */; };
+		AAB3084517F7B528001BFF2B /* DFUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083817F7B528001BFF2B /* DFUtils.m */; };
+		AAB3084617F7B528001BFF2B /* DFUtils.m in Sources */ = {isa = PBXBuildFile; fileRef = AAB3083817F7B528001BFF2B /* DFUtils.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		AAB3081817F7B438001BFF2B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = AAB307E117F7B437001BFF2B /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = AAB307E817F7B437001BFF2B;
+			remoteInfo = AutomataApp;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		AA4C456617F93401008E842D /* DFState.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFState.h; sourceTree = "<group>"; };
+		AA4C456717F93401008E842D /* DFState.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFState.m; sourceTree = "<group>"; };
+		AA709F25185403AD0015EB3E /* DrawingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DrawingView.h; sourceTree = "<group>"; };
+		AA709F26185403AD0015EB3E /* DrawingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DrawingView.m; sourceTree = "<group>"; };
+		AA709F27185403AD0015EB3E /* CircleGesture.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CircleGesture.h; sourceTree = "<group>"; };
+		AA709F28185403AD0015EB3E /* CircleGesture.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CircleGesture.m; sourceTree = "<group>"; };
+		AA709F2B18540DC80015EB3E /* AATestStringsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AATestStringsViewController.h; sourceTree = "<group>"; };
+		AA709F2C18540DC80015EB3E /* AATestStringsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AATestStringsViewController.m; sourceTree = "<group>"; };
+		AA709F2E185434F80015EB3E /* ios_lib.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ios_lib.h; sourceTree = "<group>"; };
+		AA709F2F185434F80015EB3E /* ios_lib.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ios_lib.m; sourceTree = "<group>"; };
+		AA7CD1EC1800BBAE0005CFDE /* AAHomework.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AAHomework.m; sourceTree = "<group>"; };
+		AA87EB7917FFF11F0042D2AA /* DFTransition_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFTransition_Private.h; sourceTree = "<group>"; };
+		AA87EB7A17FFF3930042D2AA /* DFState_Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFState_Private.h; sourceTree = "<group>"; };
+		AA87EB7B17FFFC290042D2AA /* AACoreFunctions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AACoreFunctions.m; sourceTree = "<group>"; };
+		AAB307E917F7B437001BFF2B /* AutomataApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AutomataApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAB307EC17F7B437001BFF2B /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		AAB307EE17F7B437001BFF2B /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		AAB307F017F7B437001BFF2B /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		AAB307F217F7B437001BFF2B /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		AAB307F617F7B437001BFF2B /* AutomataApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutomataApp-Info.plist"; sourceTree = "<group>"; };
+		AAB307F817F7B437001BFF2B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		AAB307FA17F7B437001BFF2B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AAB307FC17F7B437001BFF2B /* AutomataApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AutomataApp-Prefix.pch"; sourceTree = "<group>"; };
+		AAB307FD17F7B437001BFF2B /* AAAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAAppDelegate.h; sourceTree = "<group>"; };
+		AAB307FE17F7B437001BFF2B /* AAAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAAppDelegate.m; sourceTree = "<group>"; };
+		AAB3080117F7B438001BFF2B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		AAB3080417F7B438001BFF2B /* AutomataApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = AutomataApp.xcdatamodel; sourceTree = "<group>"; };
+		AAB3080617F7B438001BFF2B /* AAMasterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AAMasterViewController.h; sourceTree = "<group>"; };
+		AAB3080717F7B438001BFF2B /* AAMasterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AAMasterViewController.m; sourceTree = "<group>"; };
+		AAB3080917F7B438001BFF2B /* AADetailViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AADetailViewController.h; sourceTree = "<group>"; };
+		AAB3080A17F7B438001BFF2B /* AADetailViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AADetailViewController.m; sourceTree = "<group>"; };
+		AAB3080C17F7B438001BFF2B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		AAB3081217F7B438001BFF2B /* AutomataAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AutomataAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AAB3081317F7B438001BFF2B /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		AAB3081C17F7B438001BFF2B /* AutomataAppTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AutomataAppTests-Info.plist"; sourceTree = "<group>"; };
+		AAB3081E17F7B438001BFF2B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		AAB3082017F7B438001BFF2B /* AutomataAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AutomataAppTests.m; sourceTree = "<group>"; };
+		AAB3082B17F7B528001BFF2B /* DFAutomaton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFAutomaton.h; sourceTree = "<group>"; };
+		AAB3082C17F7B528001BFF2B /* DFAutomaton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFAutomaton.m; sourceTree = "<group>"; };
+		AAB3082D17F7B528001BFF2B /* DFAutomaton+Homework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DFAutomaton+Homework.h"; sourceTree = "<group>"; };
+		AAB3082E17F7B528001BFF2B /* DFAutomaton+Homework.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "DFAutomaton+Homework.m"; sourceTree = "<group>"; };
+		AAB3082F17F7B528001BFF2B /* DFAutomaton+Samples.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "DFAutomaton+Samples.h"; sourceTree = "<group>"; };
+		AAB3083017F7B528001BFF2B /* DFAutomaton+Samples.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "DFAutomaton+Samples.m"; sourceTree = "<group>"; };
+		AAB3083117F7B528001BFF2B /* DFAutomatonPath.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFAutomatonPath.h; sourceTree = "<group>"; };
+		AAB3083217F7B528001BFF2B /* DFAutomatonPath.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFAutomatonPath.m; sourceTree = "<group>"; };
+		AAB3083317F7B528001BFF2B /* DFConsts.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFConsts.h; sourceTree = "<group>"; };
+		AAB3083417F7B528001BFF2B /* DFConsts.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFConsts.m; sourceTree = "<group>"; };
+		AAB3083517F7B528001BFF2B /* DFTransition.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFTransition.h; sourceTree = "<group>"; };
+		AAB3083617F7B528001BFF2B /* DFTransition.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFTransition.m; sourceTree = "<group>"; };
+		AAB3083717F7B528001BFF2B /* DFUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DFUtils.h; sourceTree = "<group>"; };
+		AAB3083817F7B528001BFF2B /* DFUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DFUtils.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		AAB307E617F7B437001BFF2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB307EF17F7B437001BFF2B /* CoreGraphics.framework in Frameworks */,
+				AAB307F317F7B437001BFF2B /* CoreData.framework in Frameworks */,
+				AAB307F117F7B437001BFF2B /* UIKit.framework in Frameworks */,
+				AAB307ED17F7B437001BFF2B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAB3080F17F7B438001BFF2B /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB3081417F7B438001BFF2B /* XCTest.framework in Frameworks */,
+				AAB3081717F7B438001BFF2B /* CoreData.framework in Frameworks */,
+				AAB3081617F7B438001BFF2B /* UIKit.framework in Frameworks */,
+				AAB3081517F7B438001BFF2B /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		AA709F24185403920015EB3E /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				AAB3080617F7B438001BFF2B /* AAMasterViewController.h */,
+				AAB3080717F7B438001BFF2B /* AAMasterViewController.m */,
+				AAB3080917F7B438001BFF2B /* AADetailViewController.h */,
+				AAB3080A17F7B438001BFF2B /* AADetailViewController.m */,
+				AA709F2B18540DC80015EB3E /* AATestStringsViewController.h */,
+				AA709F2C18540DC80015EB3E /* AATestStringsViewController.m */,
+			);
+			name = ViewControllers;
+			sourceTree = "<group>";
+		};
+		AAB307E017F7B437001BFF2B = {
+			isa = PBXGroup;
+			children = (
+				AAB307F417F7B437001BFF2B /* AutomataApp */,
+				AAB3081A17F7B438001BFF2B /* AutomataAppTests */,
+				AAB307EB17F7B437001BFF2B /* Frameworks */,
+				AAB307EA17F7B437001BFF2B /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		AAB307EA17F7B437001BFF2B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				AAB307E917F7B437001BFF2B /* AutomataApp.app */,
+				AAB3081217F7B438001BFF2B /* AutomataAppTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		AAB307EB17F7B437001BFF2B /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				AAB307EC17F7B437001BFF2B /* Foundation.framework */,
+				AAB307EE17F7B437001BFF2B /* CoreGraphics.framework */,
+				AAB307F017F7B437001BFF2B /* UIKit.framework */,
+				AAB307F217F7B437001BFF2B /* CoreData.framework */,
+				AAB3081317F7B438001BFF2B /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		AAB307F417F7B437001BFF2B /* AutomataApp */ = {
+			isa = PBXGroup;
+			children = (
+				AAB3082A17F7B44E001BFF2B /* Model */,
+				AA709F24185403920015EB3E /* ViewControllers */,
+				AA709F25185403AD0015EB3E /* DrawingView.h */,
+				AA709F26185403AD0015EB3E /* DrawingView.m */,
+				AA709F2E185434F80015EB3E /* ios_lib.h */,
+				AA709F2F185434F80015EB3E /* ios_lib.m */,
+				AA709F27185403AD0015EB3E /* CircleGesture.h */,
+				AA709F28185403AD0015EB3E /* CircleGesture.m */,
+				AAB307FD17F7B437001BFF2B /* AAAppDelegate.h */,
+				AAB307FE17F7B437001BFF2B /* AAAppDelegate.m */,
+				AAB3080017F7B438001BFF2B /* Main.storyboard */,
+				AAB3080C17F7B438001BFF2B /* Images.xcassets */,
+				AAB3080317F7B438001BFF2B /* AutomataApp.xcdatamodeld */,
+				AAB307F517F7B437001BFF2B /* Supporting Files */,
+			);
+			path = AutomataApp;
+			sourceTree = "<group>";
+		};
+		AAB307F517F7B437001BFF2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AAB307F617F7B437001BFF2B /* AutomataApp-Info.plist */,
+				AAB307F717F7B437001BFF2B /* InfoPlist.strings */,
+				AAB307FA17F7B437001BFF2B /* main.m */,
+				AAB307FC17F7B437001BFF2B /* AutomataApp-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AAB3081A17F7B438001BFF2B /* AutomataAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				AAB3082017F7B438001BFF2B /* AutomataAppTests.m */,
+				AA87EB7B17FFFC290042D2AA /* AACoreFunctions.m */,
+				AA7CD1EC1800BBAE0005CFDE /* AAHomework.m */,
+				AAB3081B17F7B438001BFF2B /* Supporting Files */,
+			);
+			path = AutomataAppTests;
+			sourceTree = "<group>";
+		};
+		AAB3081B17F7B438001BFF2B /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				AAB3081C17F7B438001BFF2B /* AutomataAppTests-Info.plist */,
+				AAB3081D17F7B438001BFF2B /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		AAB3082A17F7B44E001BFF2B /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				AAB3082B17F7B528001BFF2B /* DFAutomaton.h */,
+				AAB3082C17F7B528001BFF2B /* DFAutomaton.m */,
+				AAB3082D17F7B528001BFF2B /* DFAutomaton+Homework.h */,
+				AAB3082E17F7B528001BFF2B /* DFAutomaton+Homework.m */,
+				AAB3082F17F7B528001BFF2B /* DFAutomaton+Samples.h */,
+				AAB3083017F7B528001BFF2B /* DFAutomaton+Samples.m */,
+				AAB3083117F7B528001BFF2B /* DFAutomatonPath.h */,
+				AAB3083217F7B528001BFF2B /* DFAutomatonPath.m */,
+				AAB3083317F7B528001BFF2B /* DFConsts.h */,
+				AAB3083417F7B528001BFF2B /* DFConsts.m */,
+				AA4C456617F93401008E842D /* DFState.h */,
+				AA87EB7A17FFF3930042D2AA /* DFState_Private.h */,
+				AA4C456717F93401008E842D /* DFState.m */,
+				AAB3083517F7B528001BFF2B /* DFTransition.h */,
+				AA87EB7917FFF11F0042D2AA /* DFTransition_Private.h */,
+				AAB3083617F7B528001BFF2B /* DFTransition.m */,
+				AAB3083717F7B528001BFF2B /* DFUtils.h */,
+				AAB3083817F7B528001BFF2B /* DFUtils.m */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		AAB307E817F7B437001BFF2B /* AutomataApp */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAB3082417F7B438001BFF2B /* Build configuration list for PBXNativeTarget "AutomataApp" */;
+			buildPhases = (
+				AAB307E517F7B437001BFF2B /* Sources */,
+				AAB307E617F7B437001BFF2B /* Frameworks */,
+				AAB307E717F7B437001BFF2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AutomataApp;
+			productName = AutomataApp;
+			productReference = AAB307E917F7B437001BFF2B /* AutomataApp.app */;
+			productType = "com.apple.product-type.application";
+		};
+		AAB3081117F7B438001BFF2B /* AutomataAppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AAB3082717F7B438001BFF2B /* Build configuration list for PBXNativeTarget "AutomataAppTests" */;
+			buildPhases = (
+				AAB3080E17F7B438001BFF2B /* Sources */,
+				AAB3080F17F7B438001BFF2B /* Frameworks */,
+				AAB3081017F7B438001BFF2B /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AAB3081917F7B438001BFF2B /* PBXTargetDependency */,
+			);
+			name = AutomataAppTests;
+			productName = AutomataAppTests;
+			productReference = AAB3081217F7B438001BFF2B /* AutomataAppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		AAB307E117F7B437001BFF2B /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = AA;
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = CS454;
+				TargetAttributes = {
+					AAB3081117F7B438001BFF2B = {
+						TestTargetID = AAB307E817F7B437001BFF2B;
+					};
+				};
+			};
+			buildConfigurationList = AAB307E417F7B437001BFF2B /* Build configuration list for PBXProject "AutomataApp" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = AAB307E017F7B437001BFF2B;
+			productRefGroup = AAB307EA17F7B437001BFF2B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				AAB307E817F7B437001BFF2B /* AutomataApp */,
+				AAB3081117F7B438001BFF2B /* AutomataAppTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		AAB307E717F7B437001BFF2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB3080D17F7B438001BFF2B /* Images.xcassets in Resources */,
+				AAB307F917F7B437001BFF2B /* InfoPlist.strings in Resources */,
+				AAB3080217F7B438001BFF2B /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAB3081017F7B438001BFF2B /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB3081F17F7B438001BFF2B /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		AAB307E517F7B437001BFF2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB3080817F7B438001BFF2B /* AAMasterViewController.m in Sources */,
+				AAB3084117F7B528001BFF2B /* DFConsts.m in Sources */,
+				AAB307FF17F7B437001BFF2B /* AAAppDelegate.m in Sources */,
+				AA709F2D18540DC80015EB3E /* AATestStringsViewController.m in Sources */,
+				AAB3084517F7B528001BFF2B /* DFUtils.m in Sources */,
+				AAB3083D17F7B528001BFF2B /* DFAutomaton+Samples.m in Sources */,
+				AA709F2A185403AD0015EB3E /* CircleGesture.m in Sources */,
+				AAB3083917F7B528001BFF2B /* DFAutomaton.m in Sources */,
+				AAB3083F17F7B528001BFF2B /* DFAutomatonPath.m in Sources */,
+				AA709F30185434F80015EB3E /* ios_lib.m in Sources */,
+				AAB307FB17F7B437001BFF2B /* main.m in Sources */,
+				AAB3080517F7B438001BFF2B /* AutomataApp.xcdatamodeld in Sources */,
+				AA709F29185403AD0015EB3E /* DrawingView.m in Sources */,
+				AA4C456817F93401008E842D /* DFState.m in Sources */,
+				AAB3083B17F7B528001BFF2B /* DFAutomaton+Homework.m in Sources */,
+				AAB3084317F7B528001BFF2B /* DFTransition.m in Sources */,
+				AAB3080B17F7B438001BFF2B /* AADetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AAB3080E17F7B438001BFF2B /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				AAB3084017F7B528001BFF2B /* DFAutomatonPath.m in Sources */,
+				AAB3084217F7B528001BFF2B /* DFConsts.m in Sources */,
+				AAB3084417F7B528001BFF2B /* DFTransition.m in Sources */,
+				AA4C456917F93401008E842D /* DFState.m in Sources */,
+				AAB3083A17F7B528001BFF2B /* DFAutomaton.m in Sources */,
+				AAB3083C17F7B528001BFF2B /* DFAutomaton+Homework.m in Sources */,
+				AAB3083E17F7B528001BFF2B /* DFAutomaton+Samples.m in Sources */,
+				AA7CD1ED1800BBAE0005CFDE /* AAHomework.m in Sources */,
+				AAB3082117F7B438001BFF2B /* AutomataAppTests.m in Sources */,
+				AA87EB7C17FFFC290042D2AA /* AACoreFunctions.m in Sources */,
+				AAB3084617F7B528001BFF2B /* DFUtils.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		AAB3081917F7B438001BFF2B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = AAB307E817F7B437001BFF2B /* AutomataApp */;
+			targetProxy = AAB3081817F7B438001BFF2B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		AAB307F717F7B437001BFF2B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AAB307F817F7B437001BFF2B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		AAB3080017F7B438001BFF2B /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AAB3080117F7B438001BFF2B /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		AAB3081D17F7B438001BFF2B /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AAB3081E17F7B438001BFF2B /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		AAB3082217F7B438001BFF2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+			};
+			name = Debug;
+		};
+		AAB3082317F7B438001BFF2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = 2;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		AAB3082517F7B438001BFF2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutomataApp/AutomataApp-Prefix.pch";
+				INFOPLIST_FILE = "AutomataApp/AutomataApp-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		AAB3082617F7B438001BFF2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutomataApp/AutomataApp-Prefix.pch";
+				INFOPLIST_FILE = "AutomataApp/AutomataApp-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		AAB3082817F7B438001BFF2B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AutomataApp.app/AutomataApp";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutomataApp/AutomataApp-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "AutomataAppTests/AutomataAppTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		AAB3082917F7B438001BFF2B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/AutomataApp.app/AutomataApp";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AutomataApp/AutomataApp-Prefix.pch";
+				INFOPLIST_FILE = "AutomataAppTests/AutomataAppTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		AAB307E417F7B437001BFF2B /* Build configuration list for PBXProject "AutomataApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAB3082217F7B438001BFF2B /* Debug */,
+				AAB3082317F7B438001BFF2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AAB3082417F7B438001BFF2B /* Build configuration list for PBXNativeTarget "AutomataApp" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAB3082517F7B438001BFF2B /* Debug */,
+				AAB3082617F7B438001BFF2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		AAB3082717F7B438001BFF2B /* Build configuration list for PBXNativeTarget "AutomataAppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				AAB3082817F7B438001BFF2B /* Debug */,
+				AAB3082917F7B438001BFF2B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		AAB3080317F7B438001BFF2B /* AutomataApp.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				AAB3080417F7B438001BFF2B /* AutomataApp.xcdatamodel */,
+			);
+			currentVersion = AAB3080417F7B438001BFF2B /* AutomataApp.xcdatamodel */;
+			path = AutomataApp.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
+	};
+	rootObject = AAB307E117F7B437001BFF2B /* Project object */;
+}

@@ -1,0 +1,1229 @@
+TAutomataApp
+v6
+r1
+cCheck dependencies
+cDataModelVersionCompile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld
+cProcessPCH /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch AutomataApp/AutomataApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFConsts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AATestStringsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/CircleGesture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomatonPath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/ios_lib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DrawingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFTransition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AADetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp normal i386
+cCopyStringsFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings AutomataApp/en.lproj/InfoPlist.strings
+cCompileStoryboard /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard
+cCompileAssetCatalog /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Images.xcassets
+cProcessInfoPlistFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp-Info.plist
+cGenerateDSYMFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp
+cTouch /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk
+c000000005281A8450000000000000176
+t1384228933
+s374
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/SDKSettings.plist
+c00000000526731F800000000000003B5
+t1382494712
+s949
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000526731FC00000000000001A0
+t1382494716
+s416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000526731FE00000000005838D0
+t1382494718
+s5781712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000526731FE00000000006C6DC0
+t1382494718
+s7105984
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000526731FE00000000005B82A0
+t1382494718
+s5997216
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000526731FE0000000000445870
+t1382494718
+s4479088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+c00000000526731FE0000000000355050
+t1382494718
+s3493968
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000526731FE00000000002F6810
+t1382494718
+s3106832
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000526731FE000000000004B000
+t1382494718
+s307200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000526731FF000000000088C680
+t1382494719
+s8963712
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c00000000526732000000000000037620
+t1382494720
+s226848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000005267320000000000004848F0
+t1382494720
+s4737264
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+c000000005267320000000000001290B0
+t1382494720
+s1216688
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000526732020000000001DB9910
+t1382494722
+s31168784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+c000000005267320900000000002B9F20
+t1382494729
+s2858784
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+c000000005267320D0000000000002338
+t1382494733
+s9016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+c000000005267320D000000000008D300
+t1382494733
+s578304
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+c000000005267320D000000000038ACB0
+t1382494733
+s3714224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+c000000005267165F00000000000141F0
+t1382487647
+s82416
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+c000000005267320D0000000000013500
+t1382494733
+s79104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+c000000005267320D0000000000033BA0
+t1382494733
+s211872
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+c000000005267320D000000000001CFB0
+t1382494733
+s118704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+c000000005267320D000000000001B2B0
+t1382494733
+s111280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+c000000005267320D00000000000632B0
+t1382494733
+s406192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+c000000005267320D0000000000008880
+t1382494733
+s34944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+c000000005267320D0000000000015080
+t1382494733
+s86144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+c000000005267320D00000000000230E0
+t1382494733
+s143584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+c000000005267320D000000000000E380
+t1382494733
+s58240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+c000000005267320D0000000000087200
+t1382494733
+s553472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+c000000005267320D00000000000171A0
+t1382494733
+s94624
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+c000000005267320D0000000000039C10
+t1382494733
+s236560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+c000000005267320D000000000000B0B0
+t1382494733
+s45232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+c000000005267320E0000000000167FE0
+t1382494734
+s1474528
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+c000000005267320D00000000000106A0
+t1382494733
+s67232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+c000000005267320D000000000001CE40
+t1382494733
+s118336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+c000000005267320D0000000000071040
+t1382494733
+s462912
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+c000000005267320D0000000000067A10
+t1382494733
+s424464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+c000000005267320D000000000001BAD0
+t1382494733
+s113360
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+c000000005267320D0000000000088BA0
+t1382494733
+s560032
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/include/module.map
+c000000005267321D0000000000000AC9
+t1382494749
+s2761
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+c000000005267321D0000000000005004
+t1382494749
+s20484
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.h
+c0000000052A4BABA000000000000025C
+t1386527418
+s604
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.m
+c0000000052A4BABA0000000000001E85
+t1386527418
+s7813
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.h
+c0000000052A4BABA00000000000001B8
+t1386527418
+s440
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.m
+c0000000052A4F5B0000000000000380F
+t1386542512
+s14351
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.h
+c0000000052A4BABA0000000000000236
+t1386527418
+s566
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.m
+c0000000052A4BABA0000000000002209
+t1386527418
+s8713
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.h
+c0000000052A4BABA000000000000015C
+t1386527418
+s348
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.m
+c0000000052A4BABA000000000000125E
+t1386527418
+s4702
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp-Info.plist
+c0000000052A4BABA000000000000064C
+t1386527418
+s1612
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp-Prefix.pch
+c0000000052A4BABA000000000000017A
+t1386527418
+s378
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld
+c0000000052A4BABA0000000000000088
+t1386527418
+s136
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard
+c0000000052A4CC990000000000002ABD
+t1386531993
+s10941
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.h
+c0000000052A4BABA0000000000000425
+t1386527418
+s1061
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.m
+c0000000052A4BABA00000000000010C0
+t1386527418
+s4288
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.h
+c0000000052A4BABA00000000000000C4
+t1386527418
+s196
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m
+c0000000052A4BABA0000000000000548
+t1386527418
+s1352
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.h
+c0000000052A4BABA0000000000000263
+t1386527418
+s611
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m
+c0000000052A4BABA00000000000023AA
+t1386527418
+s9130
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+c0000000052A4BABA00000000000006EE
+t1386527418
+s1774
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.m
+c0000000052A4BABA0000000000006709
+t1386527418
+s26377
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.h
+c0000000052A4BABA00000000000002CA
+t1386527418
+s714
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.m
+c0000000052A4BABA00000000000018CB
+t1386527418
+s6347
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+c0000000052A4BABA0000000000000102
+t1386527418
+s258
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.m
+c0000000052A4BABA0000000000000083
+t1386527418
+s131
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+c0000000052A4BABA0000000000000C79
+t1386527418
+s3193
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.m
+c0000000052A4BABA0000000000001EC8
+t1386527418
+s7880
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState_Private.h
+c0000000052A4BABA000000000000011C
+t1386527418
+s284
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+c0000000052A4BABA000000000000050F
+t1386527418
+s1295
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.m
+c0000000052A4BABA0000000000001119
+t1386527418
+s4377
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition_Private.h
+c0000000052A4BABA00000000000000FE
+t1386527418
+s254
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+c0000000052A4BABA00000000000007ED
+t1386527418
+s2029
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.m
+c0000000052A4BABA000000000000293A
+t1386527418
+s10554
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.h
+c0000000052A4CC9900000000000002F0
+t1386531993
+s752
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.m
+c0000000052A4CC990000000000001766
+t1386531993
+s5990
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/Images.xcassets
+c0000000052A4BABA0000000000000132
+t1386527418
+s306
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/en.lproj/InfoPlist.strings
+c0000000052A4BABA000000000000002D
+t1386527418
+s45
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.h
+c0000000052A4BABA000000000000052E
+t1386527418
+s1326
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.m
+c0000000052A4BABA000000000000150F
+t1386527418
+s5391
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/main.m
+c0000000052A4BABA000000000000014D
+t1386527418
+s333
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o
+t1386527471
+s80524
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o
+t1386544026
+s130444
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o
+t1386527471
+s86040
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o
+t1386527471
+s79608
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AutomataApp.LinkFileList
+c0000000052A4BAEE0000000000000BEA
+t1386527470
+s3050
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o
+t1386532020
+s64320
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o
+t1386527471
+s10016
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o
+t1386527471
+s27928
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o
+t1386527471
+s104516
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o
+t1386527471
+s38132
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o
+t1386527471
+s3168
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o
+t1386527471
+s50540
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o
+t1386527471
+s36848
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o
+t1386527471
+s44996
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o
+t1386532020
+s70604
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o
+t1386527471
+s48324
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o
+t1386527471
+s3696
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_dependencies.txt
+t1386527472
+s343
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_generated_info.plist
+t1386527472
+s181
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch
+t1386527471
+s109360
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app
+t1386544026
+s306
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM
+t1386532021
+s102
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp
+t1386544026
+s284048
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd
+t1386527470
+s170
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Base.lproj/Main.storyboardc
+t1386532021
+s204
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist
+t1386527472
+s1078
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/PkgInfo
+t1386527472
+s8
+
+N/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings
+t1386527471
+s42
+
+N/usr/lib/libSystem.B.dylib
+c0000000052671652000000000000E6D0
+t1382487634
+s59088
+
+N/usr/lib/system/libcache.dylib
+c000000005267165F0000000000012A00
+t1382487647
+s76288
+
+N/usr/lib/system/libcommonCrypto.dylib
+c0000000052671646000000000002E320
+t1382487622
+s189216
+
+N/usr/lib/system/libcompiler_rt.dylib
+c00000000526716520000000000021860
+t1382487634
+s137312
+
+N/usr/lib/system/libcopyfile.dylib
+c000000005267165E000000000001B620
+t1382487646
+s112160
+
+N/usr/lib/system/libcorecrypto.dylib
+c000000005267165E00000000000BD920
+t1382487646
+s776480
+
+N/usr/lib/system/libkeymgr.dylib
+c000000005267165F000000000000A120
+t1382487647
+s41248
+
+N/usr/lib/system/liblaunch.dylib
+c000000005267165F000000000001D550
+t1382487647
+s120144
+
+N/usr/lib/system/libmacho.dylib
+c000000005267165E0000000000014EE0
+t1382487646
+s85728
+
+N/usr/lib/system/libquarantine.dylib
+c00000000526716610000000000010380
+t1382487649
+s66432
+
+N/usr/lib/system/libremovefile.dylib
+c0000000052671661000000000000C4C0
+t1382487649
+s50368
+
+N/usr/lib/system/libsystem_asl.dylib
+c000000005267165F00000000000357A0
+t1382487647
+s219040
+
+N/usr/lib/system/libsystem_blocks.dylib
+c000000005267165F000000000000C070
+t1382487647
+s49264
+
+N/usr/lib/system/libsystem_c.dylib
+c00000000526716520000000000168C00
+t1382487634
+s1477632
+
+N/usr/lib/system/libsystem_configuration.dylib
+c000000005267165E0000000000010630
+t1382487646
+s67120
+
+N/usr/lib/system/libsystem_dnssd.dylib
+c0000000052671660000000000001DF10
+t1382487648
+s122640
+
+N/usr/lib/system/libsystem_info.dylib
+c00000000526716520000000000075B00
+t1382487634
+s482048
+
+N/usr/lib/system/libsystem_kernel.dylib
+c0000000052671652000000000007CC70
+t1382487634
+s511088
+
+N/usr/lib/system/libsystem_m.dylib
+c000000005267165200000000000766C0
+t1382487634
+s485056
+
+N/usr/lib/system/libsystem_malloc.dylib
+c000000005267165F0000000000044DC0
+t1382487647
+s282048
+
+N/usr/lib/system/libsystem_notify.dylib
+c00000000526716520000000000021FA0
+t1382487634
+s139168
+
+N/usr/lib/system/libsystem_platform.dylib
+c000000005267165F000000000002D900
+t1382487647
+s186624
+
+N/usr/lib/system/libsystem_pthread.dylib
+c0000000052671660000000000001E570
+t1382487648
+s124272
+
+N/usr/lib/system/libsystem_sandbox.dylib
+c0000000052671658000000000000CC70
+t1382487640
+s52336
+
+N/usr/lib/system/libunc.dylib
+c000000005267165A000000000000C3F0
+t1382487642
+s50160
+
+N/usr/lib/system/libunwind.dylib
+c000000005267166000000000000199F0
+t1382487648
+s104944
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAAppDelegate.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AADetailViewController.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAMasterViewController.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AATestStringsViewController.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/CircleGesture.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomatonPath.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFConsts.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFState.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFTransition.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFUtils.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DrawingView.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/ios_lib.m
+r0
+
+CBuild AST from /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies7f6ae0193355b841^3bc7e0193355b841^---0#1#1#--18"Check dependencies36"0C0867B7-1F7F-4F5F-B2DD-C33D77470044-
+
+CCompileAssetCatalog /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Images.xcassets
+s408220271.810702
+e408220272.572846
+r1
+xCompileAssetCatalog
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/Images.xcassets
+o2013-12-08 10:31:12.455 IBCocoaTouchImageCatalogTool[20120:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+o/* com.apple.actool.compilation-results */
+o/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Assets.car
+o/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"CompileAssetCatalog DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app AutomataApp/Images.xcassets124"CompileAssetCatalog DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app AutomataApp/Images.xcassets1b9dcf6ff254b841^3ba69270f254b841^-599"2013-12-08 10:31:12.455 IBCocoaTouchImageCatalogTool[20120:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile./* com.apple.actool.compilation-results *//Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Assets.car/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@89"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/Images.xcassets/0000000000000000^1335"CompileAssetCatalog DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app AutomataApp/Images.xcassets    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.0 --target-device ipad --compress-pngs --compile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Images.xcassets36"FCE64D9C-4941-46B9-98E2-3DAEB0287531-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.480523
+e408220271.607833
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.m242"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o AutomataApp/AAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler44187b6ff254b841^289e9b6ff254b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AAAppDelegate.m0000000000000000^4288"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o AutomataApp/AAAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAAppDelegate.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o36"504BFD32-26EB-40A2-86A2-28168B892D3F-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AADetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408236825.881385
+e408236826.179692
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.m260"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o AutomataApp/AADetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler67b8e1193355b841^92032e1a3355b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AADetailViewController.m0000000000000000^4342"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o AutomataApp/AADetailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AADetailViewController.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o36"8B3E92D3-4837-4002-8D84-4412506DB974-
+b59C8BF59-BF41-4CF2-8956-DEF457E69E38
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.479926
+e408220271.623803
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAMasterViewController.m260"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o AutomataApp/AAMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6dff7a6ff254b841^e2b19f6ff254b841^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AAMasterViewController.m0000000000000000^4342"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o AutomataApp/AAMasterViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AAMasterViewController.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o36"EC5D888C-A7DE-4D9B-9AAF-BFECA490F8C5-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AATestStringsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.480828
+e408220271.616112
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AADetailViewController.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AATestStringsViewController.m270"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o AutomataApp/AATestStringsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc4407b6ff254b841^06bb9d6ff254b841^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AATestStringsViewController.m0000000000000000^4372"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o AutomataApp/AATestStringsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AATestStringsViewController.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o36"CA36A09B-8106-4D11-A9CE-BA17A46FDB70-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/CircleGesture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408224820.613118
+e408224820.794092
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/CircleGesture.m242"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o AutomataApp/CircleGesture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a099d340455b841^d74bcb340455b841^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/CircleGesture.m0000000000000000^4288"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o AutomataApp/CircleGesture.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/CircleGesture.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o36"AF3370A2-8887-4538-A22C-A2D4B2CA7FBB-
+b65314FD9-4E64-4553-92A2-C474DD1499B2
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.617481
+e408220271.672622
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m256"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o AutomataApp/DFAutomaton+Homework.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler096c9e6ff254b841^7b31ac6ff254b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m0000000000000000^4330"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o AutomataApp/DFAutomaton+Homework.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Homework.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o36"92976D56-251C-42C8-A80F-2A73C4F06DC0-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.481550
+e408220271.558630
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m254"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o AutomataApp/DFAutomaton+Samples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera9887b6ff254b841^c5028f6ff254b841^---0#0#1#-19%DVTDocumentLocation2@94"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m0000000000000000^4324"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o AutomataApp/DFAutomaton+Samples.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton+Samples.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o36"9FEE2AB0-58E5-468E-8F9E-58EC1CB81B31-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.482597
+e408220271.642265
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.m238"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o AutomataApp/DFAutomaton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler1ec37b6ff254b841^df6ba46ff254b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFAutomaton.m0000000000000000^4276"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o AutomataApp/DFAutomaton.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomaton.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o36"C31DBBDF-678A-4BE6-84F0-15252924E049-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomatonPath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.527220
+e408220271.617292
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomatonPath.m246"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o AutomataApp/DFAutomatonPath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerce17876ff254b841^3e079e6ff254b841^---0#0#1#-19%DVTDocumentLocation2@90"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFAutomatonPath.m0000000000000000^4300"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o AutomataApp/DFAutomatonPath.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFAutomatonPath.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o36"B44A0B76-F763-418F-A663-20736F0ABAAD-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFConsts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.480271
+e408220271.525872
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.m232"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o AutomataApp/DFConsts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerec147b6ff254b841^cf9f866ff254b841^---0#0#1#-19%DVTDocumentLocation2@83"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFConsts.m0000000000000000^4258"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o AutomataApp/DFConsts.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFConsts.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o36"004A6899-D0EC-4CC5-A08D-5E2B034822DE-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.610155
+e408220271.713674
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState_Private.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition_Private.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.m230"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o AutomataApp/DFState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilereb559c6ff254b841^91b5b66ff254b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFState.m0000000000000000^4252"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o AutomataApp/DFState.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFState.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o36"D2F7F1DA-2021-4C3C-A7DC-D2E18428614F-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFTransition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.619867
+e408220271.714150
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFAutomaton.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFConsts.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition_Private.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFState_Private.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFTransition.m240"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o AutomataApp/DFTransition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler5d1a9f6ff254b841^edd2b66ff254b841^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFTransition.m0000000000000000^4282"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o AutomataApp/DFTransition.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFTransition.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o36"12087E28-1C79-4437-8B94-2C79C6660050-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.481306
+e408220271.587511
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DFUtils.m230"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o AutomataApp/DFUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd95e7b6ff254b841^1f67966ff254b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DFUtils.m0000000000000000^4252"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o AutomataApp/DFUtils.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DFUtils.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o36"3684335D-F4E2-48E7-AF7C-AC53BDE04AE5-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DrawingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408224820.614277
+e408224820.804451
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.h
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/DrawingView.m238"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o AutomataApp/DrawingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilera4559d340455b841^88f2cd340455b841^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/DrawingView.m0000000000000000^4276"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o AutomataApp/DrawingView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/DrawingView.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o36"B77EE43D-FFBF-4984-BFDA-FB6F237EA4E5-
+b65314FD9-4E64-4553-92A2-C474DD1499B2
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/ios_lib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.558961
+e408220271.668466
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/ios_lib.m230"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o AutomataApp/ios_lib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc5388f6ff254b841^b820ab6ff254b841^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/ios_lib.m0000000000000000^4252"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o AutomataApp/ios_lib.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/ios_lib.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o36"B0BC75AA-0707-46B5-80B3-0A3FAD97F28C-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220271.588827
+e408220271.634197
+r1
+xCompileC
+xDerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/main.m
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AAAppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection78"Compile /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/main.m224"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o AutomataApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler59dd966ff254b841^ab5ea26ff254b841^---0#0#1#-19%DVTDocumentLocation2@79"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/main.m0000000000000000^4234"CompileC DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o AutomataApp/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -include /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.dia -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/main.m -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o36"7DE28025-B9C8-48B6-BD55-5304BDA23AC5-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CCompileStoryboard /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard
+s408224820.878059
+e408224821.456348
+r1
+xCompileStoryboard
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard
+o2013-12-08 11:47:01.313 Interface Builder Cocoa Touch Tool[21415:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"CompileStoryboard AutomataApp/Base.lproj/Main.storyboard56"CompileStoryboard AutomataApp/Base.lproj/Main.storyboard6fd6e0340455b841^73d574350455b841^-233"2013-12-08 11:47:01.313 Interface Builder Cocoa Touch Tool[21415:303] CFPreferences: user home directory at file:///Users/TheDavid/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.-0#0#1#-19%DVTDocumentLocation2@99"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard0000000000000000^918"CompileStoryboard AutomataApp/Base.lproj/Main.storyboard    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.0 --output-format human-readable-text --compile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Base.lproj/Main.storyboardc /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/Base.lproj/Main.storyboard36"366F76F4-5049-4D0D-B231-13BBE1631E83-
+b65314FD9-4E64-4553-92A2-C474DD1499B2
+
+CCopyStringsFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings AutomataApp/en.lproj/InfoPlist.strings
+s408220271.810078
+e408220271.811301
+r1
+xCopyStringsFile
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings
+xAutomataApp/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection43"Copy AutomataApp/en.lproj/InfoPlist.strings158"CopyStringsFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings AutomataApp/en.lproj/InfoPlist.strings9b74cf6ff254b841^25b2cf6ff254b841^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/en.lproj/InfoPlist.strings0000000000000000^686"CopyStringsFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj/InfoPlist.strings AutomataApp/en.lproj/InfoPlist.strings    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/en.lproj -- AutomataApp/en.lproj/InfoPlist.strings36"42191793-1918-43DD-9422-28F24EAED04E-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CDataModelVersionCompile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld
+s408220270.579464
+e408220270.792613
+r1
+xDataModelVersionCompile
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection154"DataModelVersionCompile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd AutomataApp/AutomataApp.xcdatamodeld154"DataModelVersionCompile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd AutomataApp/AutomataApp.xcdatamodeld6dac946ef254b841^79e9ca6ef254b841^---0#0#1#-19%DVTDocumentLocation2@98"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld/0000000000000000^1004"DataModelVersionCompile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd AutomataApp/AutomataApp.xcdatamodeld    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/momc -XD_MOMC_SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -XD_MOMC_IOS_TARGET_VERSION=7.0 -MOMC_PLATFORMS iphonesimulator -MOMC_PLATFORMS iphoneos -XD_MOMC_TARGET_VERSION=10.6 /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp.xcdatamodeld /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp.momd36"B3EF9146-AD51-406E-91C2-61B47C057E06-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CGenerateDSYMFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp
+s408236826.223382
+e408236826.278013
+r1
+xGenerateDSYMFile
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Generate /Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM187"GenerateDSYMFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp253c391a3355b841^0a2d471a3355b841^---0#0#1#-19%DVTDocumentLocation2@143"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM/0000000000000000^824"GenerateDSYMFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app.dSYM36"675EF832-EEFD-4924-AA60-945CDBEB1E80-
+b59C8BF59-BF41-4CF2-8956-DEF457E69E38
+
+CLd /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp normal i386
+s408236826.182365
+e408236826.221427
+r1
+xLd
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp
+xnormal
+xi386
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AutomataApp.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/crt1.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAMasterViewController.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFConsts.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AAAppDelegate.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AATestStringsViewController.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFUtils.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Samples.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/CircleGesture.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomatonPath.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/ios_lib.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/main.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DrawingView.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFState.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFAutomaton+Homework.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/DFTransition.o
+d/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AADetailViewController.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection145"Link /Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp103"Ld DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp normal i38644c32e1a3355b841^abb1381a3355b841^---0#0#1#--1678"Ld DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp normal i386    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv IPHONEOS_DEPLOYMENT_TARGET 7.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -L/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator -filelist /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AutomataApp.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -framework CoreGraphics -framework CoreData -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/Objects-normal/i386/AutomataApp_dependency_info.dat -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/AutomataApp36"0A7A3B30-0626-44B5-9C01-9E85667263E8-
+b59C8BF59-BF41-4CF2-8956-DEF457E69E38
+
+CProcessInfoPlistFile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp-Info.plist
+s408220272.573312
+e408220272.574932
+r1
+xProcessInfoPlistFile
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist
+x/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection94"Process /Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp-Info.plist143"ProcessInfoPlistFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist AutomataApp/AutomataApp-Info.plist5ad59270f254b841^452f9370f254b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AutomataApp-Info.plist0000000000000000^1085"ProcessInfoPlistFile DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist AutomataApp/AutomataApp-Info.plist    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp-Info.plist -genpkginfo /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/assetcatalog_generated_info.plist -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app/Info.plist36"2B9A92F0-BF32-44BE-BC98-1AD594932C3A-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CProcessPCH /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch AutomataApp/AutomataApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s408220270.580077
+e408220271.479193
+r1
+xProcessPCH
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch
+xAutomataApp/AutomataApp-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/TheDavid/Developer/Final Project/AutomataApp/AutomataApp/AutomataApp-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection45"Precompile AutomataApp/AutomataApp-Prefix.pch251"ProcessPCH DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch AutomataApp/AutomataApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler4a99946ef254b841^b8ac7a6ff254b841^---0#0#1#-19%DVTDocumentLocation2@95"file:///Users/TheDavid/Developer/Final%20Project/AutomataApp/AutomataApp/AutomataApp-Prefix.pch0000000000000000^4111"ProcessPCH DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch AutomataApp/AutomataApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -std=gnu99 -fobjc-arc -fmodules -fmodules-cache-path=/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/ModuleCache -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.0.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-generated-files.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-own-target-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-all-target-headers.hmap -iquote /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/AutomataApp-project-headers.hmap -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources/i386 -I/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/AutomataApp.build/Debug-iphonesimulator/AutomataApp.build/DerivedSources -F/Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator --serialize-diagnostics /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.dia -MMD -MT dependencies -MF /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.d -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/AutomataApp/AutomataApp-Prefix.pch -o /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Intermediates/PrecompiledHeaders/AutomataApp-Prefix-ftgqszmopehgecfjaflkjncokfpc/AutomataApp-Prefix.pch.pch36"FF437B31-C8D7-4E48-B2D4-91D89032B4C7-
+bEADF6947-95DD-4E5B-96DA-378A5C77E5CC
+
+CProcessPCH /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Index/PrecompiledHeaders/AutomataApp-Prefix-dgxqifvoddfzaaanbnfgvcxezsxj_ast/AutomataApp-Prefix.pch.pch AutomataApp/AutomataApp-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app
+s408224821.509553
+e408224821.512919
+r1
+xTouch
+x/Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection134"Touch /Users/TheDavid/Developer/Final Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app82"Touch DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app1b7f82350455b841^834f83350455b841^---0#0#1#--491"Touch DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app    cd "/Users/TheDavid/Developer/Final Project/AutomataApp"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/TheDavid/Developer/Final\ Project/AutomataApp/DerivedData/AutomataApp/Build/Products/Debug-iphonesimulator/AutomataApp.app36"EE4CEC87-0E1F-4708-B610-82CACEA22C00-
+b65314FD9-4E64-4553-92A2-C474DD1499B2
+
